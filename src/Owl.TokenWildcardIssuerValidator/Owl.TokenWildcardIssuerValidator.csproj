@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <Authors>maliming</Authors>
+        <RepositoryUrl>https://github.com/maliming//Owl.TokenWildcardIssuerValidator</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/maliming//Owl.TokenWildcardIssuerValidator</PackageProjectUrl>
+        <PackageLicense>https://github.com/maliming//Owl.TokenWildcardIssuerValidator/blob/master/LICENSE</PackageLicense>
+        <RepositoryType>git</RepositoryType>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.11.0" />
+        <PackageReference Include="Volo.Abp.Core" Version="4.3.0" />
+    </ItemGroup>
+
+</Project>

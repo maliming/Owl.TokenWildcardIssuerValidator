@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Owl.TokenWildcardIssuerValidator", "src\Owl.TokenWildcardIssuerValidator\Owl.TokenWildcardIssuerValidator.csproj", "{2C7DEDA4-4E0F-43D5-99EB-B74FFB216BE5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{33CDBFEA-5F8D-4A50-872F-E5D7770DD950}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{B4ED6F11-EAE7-4A46-93CB-FFE0580CE12F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Owl.TokenWildcardIssuerValidator.Tests", "test\Owl.TokenWildcardIssuerValidator.Tests\Owl.TokenWildcardIssuerValidator.Tests.csproj", "{6F135F20-79D5-4374-915C-B5F0393CE406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7DEDA4-4E0F-43D5-99EB-B74FFB216BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7DEDA4-4E0F-43D5-99EB-B74FFB216BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7DEDA4-4E0F-43D5-99EB-B74FFB216BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7DEDA4-4E0F-43D5-99EB-B74FFB216BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F135F20-79D5-4374-915C-B5F0393CE406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F135F20-79D5-4374-915C-B5F0393CE406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F135F20-79D5-4374-915C-B5F0393CE406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F135F20-79D5-4374-915C-B5F0393CE406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2C7DEDA4-4E0F-43D5-99EB-B74FFB216BE5} = {33CDBFEA-5F8D-4A50-872F-E5D7770DD950}
+		{6F135F20-79D5-4374-915C-B5F0393CE406} = {B4ED6F11-EAE7-4A46-93CB-FFE0580CE12F}
+	EndGlobalSection
+EndGlobal
