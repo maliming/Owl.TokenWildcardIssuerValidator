@@ -1,4 +1,6 @@
-# Owl.TokenWildcardIssuerValidator
+# Owl.TokenWildcardIssuerValidator 
+
+![Nuget](https://img.shields.io/nuget/v/Owl.TokenWildcardIssuerValidator?style=flat-square)
 
 ```cs
 services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
